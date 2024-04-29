@@ -1,0 +1,4 @@
+telebot==0.0.5
+translatepy==2.3
+requests==2.31.0
+pip==24.0
